@@ -1,0 +1,2 @@
+# CRUD-Inventario----SpringBoot---BackEnd
+Es un aplicativo que esta compuesto por un FronEnd desarrollado en Angular que esta compuesto por las vista, componentes y servicio que realizara un peticion HttpClient al backEnd que es desarrollado en SpringBoot en el cual esta compuesto por controlador REST, servicios, repositorio, entidades y la base de datos mySQL. Con la finalidad de realizar un Crud en donde las funciones principales son agregar, editar, eliminar.
